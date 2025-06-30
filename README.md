@@ -7,7 +7,7 @@ Currently building up a modular workflow where dev, QA, and DevOps logic blend �
 
 ### 💡 What I Do
 
-- 🧩 **Full-Stack Exploration**: HTML/CSS, JS, PHP, and C/C++ — I build without frameworks to master the raw flow.
+- 🧩 **Full-Stack Exploration**: HTML/CSS, JS, PHP, Python and C/C++ — I build without frameworks to master the raw flow.
 - 🔍 **QA & Testing**: Learning to break what I build — with purpose.
 - ⚙️ **DevOps Curious**: From Git logic to local deployment and environment control.
 - 📐 **Workflow Crafter**: Designing my own development method — *Electric Concept* — to structure projects and scale my thinking.
@@ -16,7 +16,7 @@ Currently building up a modular workflow where dev, QA, and DevOps logic blend �
 
 ### ⚙️ Currently Focused On
 
-- 🔧 Building solid fundamentals in backend (PHP, C)  
+- 🔧 Building solid fundamentals in backend (PHP, C++, Js, Python)  
 - 🧠 Understanding memory, logic flow, and edge cases  
 - 🗂️ Organizing projects with clear structure & purpose  
 - 🌩️ Shaping a portfolio that reflects learning, identity, and power
