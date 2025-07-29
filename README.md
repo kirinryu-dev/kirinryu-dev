@@ -1,6 +1,6 @@
 ## Hi there 👋👹 
 
-I'm **Sam Tanguy Tchalim**, a full-stack learner walking the edge between code, testing, and system mastery.  
+I'm **Sam Tanguy Tchalim** aka @kirinryu-dev ⌐■-■  , a full-stack learner walking the edge between code, testing, and system mastery.  
 Currently building up a modular workflow where dev, QA, and DevOps logic blend — one brick at a time.
 
 ---
