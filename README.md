@@ -1,40 +1,71 @@
-## Hi there 👋👹
+# Hey.
 
-Well, here we are. You clicked. You scrolled. You're now reading a paragraph that will probably make your brain wander off to check notifications. Nobody really reads extra 10 words when it's slow and annoying. But what am I trying to do here? Just waste your time a bit. You must not have the patience to read all this, but here's a bucket of nonsense to keep you company...
-Ehh... still here ?...
-Congratulations, you made it this far.
+You made it past the scroll. Respect.
 
-Oh right — since you're here, let me present myself.
+I'm **Sam Tanguy Tchalim** (`@kirinryu-dev`)  ⌐■-■ (The glass is necessary , pay no mind). 
+I collect **skill intersections**: code that talks to hardware, systems that talk to devices, and the occasional combustion engine when the screens get too bright.
 
-*commit -m "my back hurts... help"*
+---
 
-I'm **Sam Tanguy Tchalim** aka `@kirinryu-dev` ⌐■-■ (The glass is necessary , pay no mind)
-A full-stack learner walking the edge between code, testing, and system mastery. Currently bending my spine over a modular workflow where Dev, QA, and DevOps logic blend 
-One brick at a time.
+## What I Actually Do
 
-## What I Do ?
+> Systems Developer bridging hardware and software.
 
-- **Full-Stack Exploration**: JavaScript, C++, Python — I build with and without frameworks to understand the raw flow.
-- **QA & Testing**: Learning to break what I build — with purpose.
-- **DevOps Curious**: Docker, Nginx, Kubernetes — from local envs to container orchestration.
-- **Workflow Crafter**: Designing my own dev method — *Electric Concept* — to structure projects and scale thinking.
+I don't just write code. I trace signals from Python scripts down to bare metal, from JavaScript frontends back to ARM cores. The stack isn't just a technology choice — it's a vertical I intend to own.
 
-## Currently Focused On
+### Languages & Tools
+- **Python** — Backend, automation, data plumbing
+- **JavaScript / Node.js** — Interfaces, delivery layers, API glue
+- **C / C++** — Performance-critical logic, embedded proximity, memory discipline
+- **Docker / Linux** — Deployment, orchestration, homelab infrastructure
+- **ARM Architecture** — Current obsession. Going deep on microcontrollers and edge systems
 
-- Building solid fundamentals in **C++, JS, Python**
-- **Development optimization** & **data visualization interfaces**
-- Understanding **memory, logic flow, and edge cases** (ARM architecture style — because why not)
-- Organizing projects with clear structure & purpose
-- Shaping a portfolio that reflects learning, identity, and power
-- Also, **cars**.( I LOVE BMW !! ) Because engines and compilers share the same spirit.
+### Hardware Grounding
+PC repair. Phone repair. Soldering. Diagnostic work. 
+I don't fear the multimeter — I read it. 
+This isn't a side hustle. It's the other half of the stack.
 
-## Let’s Connect or not (i'm boring i swear 😡)
+---
 
-- LinkedIn: *https://www.linkedin.com/in/sam-tanguy-tchalim-93857927a/*
-- WhatsApp / Call: +228 90 55 37 19
-- Email: kirinryu.dev@gmail.com
+## What I'm Building ( recently --commit )
 
-## ✨ Motto
+- **Real Estate Platform** (Kokojin) — Full-stack, Dockerized, deployed
+- **Permission Management System** — Enterprise-grade auth, audit trails, GDPR compliance
+- **Systems Utilities** — Cleaners, network tools, diagnostic scripts. The kind of software that sits quietly in the tray and actually helps
 
-> “Time + Technique never fails.”  
-I build with intention, and I debug with patience.
+All pinned below. The rest is in the lab.
+
+---
+
+## Operating Philosophy
+
+> Time plus technique never fails.
+
+I build with intention. I debug with patience. I don't chase trends — I chase capability.
+It's compiles ? conducts electricity ? I'm interested.
+
+Also: **I love BMW.** Because an inline-6 timing chain and a well-structured inheritance tree share the same elegance. 
+Engineering is engineering.
+
+---
+
+## Currently Reading / Learning
+
+- C memory management and low-level system design
+- ARM Cortex-M architecture and embedded workflows
+- Edge computing patterns (Docker on constrained devices)
+- Nihongo + German (because precision)
+
+---
+
+## Let's Connect
+
+- **LinkedIn:** [sam-tanguy-tchalim](https://www.linkedin.com/in/sam-tanguy-tchalim-93857927a/)
+- **Email:** kirinryu.dev@gmail.com
+- **Portfolio:** [Coming soon — Updating]
+
+If you're looking for someone who can fix the server, solder the sensor, and explain both in the same meeting — that's the conversation.
+
+---
+
+*Last calibrated: 2026-06-22*
